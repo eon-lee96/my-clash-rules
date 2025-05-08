@@ -1,2 +1,3 @@
 payload:
   - '+.diadiabrowser.engineering'
+  - '+.diabrowser.engineering'
