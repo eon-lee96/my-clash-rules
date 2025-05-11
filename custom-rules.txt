@@ -1,0 +1,4 @@
+payload:
+  - '+.diadiabrowser.engineering'
+  - '+.diabrowser.engineering'
+  - '+.unsplash.com'
